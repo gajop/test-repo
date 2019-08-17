@@ -18,7 +18,8 @@
     {
       "package": {
         "id": "test-portable",
-        "display": "Test-Portable"
+        "display": "Test-Portable",
+        "portable": true
       },
       "downloads": {
         "games" : ["chobby:test"],
