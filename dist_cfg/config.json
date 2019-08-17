@@ -1,14 +1,14 @@
 {
-  "title" : "Cursed",
+  "title" : "Test-Title",
   "setups" : [
     {
       "package": {
-        "id": "cursed",
-        "display": "Cursed"
+        "id": "test",
+        "display": "Test"
       },
       "downloads": {
-        "games" : ["tc:test", "chobby:test"],
-        "engines" : [ "104.0.1-964-g0e56068 maintenance" ]
+        "games" : ["chobby:test"],
+        "engines" : [ "104.0.1-1343-g7ce8ccc maintenance" ]
       },
       "no_start_script" : true,
       "launch": {
