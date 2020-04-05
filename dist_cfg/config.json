@@ -8,7 +8,7 @@
       },
       "downloads": {
         "games" : ["chobby:test"],
-        "engines" : [ "104.0.1-1343-g7ce8ccc maintenance" ]
+        "engines" : [ "104.0.1-1474-g69b06d0 maintenance" ]
       },
       "no_start_script" : true,
       "launch": {
@@ -23,7 +23,7 @@
       },
       "downloads": {
         "games" : ["chobby:test"],
-        "engines" : [ "104.0.1-1343-g7ce8ccc maintenance" ]
+        "engines" : [ "104.0.1-1474-g69b06d0 maintenance" ]
       },
       "no_start_script" : true,
       "launch": {
