@@ -8,11 +8,18 @@
       },
       "downloads": {
         "games" : ["chobby:test"],
-        "engines" : [ "104.0.1-1474-g69b06d0 maintenance" ]
+        "resources": [
+          {
+              "url": "https://springrts.com/dl/buildbot/default/maintenance/104.0.1-1553-gd3c0012/win32/spring_%7bmaintenance%7d104.0.1-1553-gd3c0012_win32-minimal-portable.7z",
+              "destination": "engine/104.0.1-1553-gd3c0012 maintenance",
+              "extract": true
+          }
+        ]
       },
       "no_start_script" : true,
       "launch": {
-        "start_args": ["--menu", "rapid://chobby:test"]
+        "start_args": ["--menu", "rapid://chobby:test"],
+        "engine": "104.0.1-1553-gd3c0012 maintenance"
       }
     },
     {
@@ -23,11 +30,18 @@
       },
       "downloads": {
         "games" : ["chobby:test"],
-        "engines" : [ "104.0.1-1474-g69b06d0 maintenance" ]
+        "resources": [
+          {
+              "url": "https://springrts.com/dl/buildbot/default/maintenance/104.0.1-1553-gd3c0012/win32/spring_%7bmaintenance%7d104.0.1-1553-gd3c0012_win32-minimal-portable.7z",
+              "destination": "engine/104.0.1-1553-gd3c0012 maintenance",
+              "extract": true
+          }
+        ]
       },
       "no_start_script" : true,
       "launch": {
-        "start_args": ["--menu", "rapid://chobby:test"]
+        "start_args": ["--menu", "rapid://chobby:test"],
+        "engine": "104.0.1-1553-gd3c0012 maintenance"
       }
     }
   ]
