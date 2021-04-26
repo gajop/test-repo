@@ -26,7 +26,8 @@
       "package": {
         "id": "test-portable",
         "display": "Test-Portable",
-        "portable": true
+        "portable": false,
+        "PORTABLE_TEMPORARY_DISABLED": "disabled until github CI gets fixed"
       },
       "downloads": {
         "games" : ["chobby:test"],
