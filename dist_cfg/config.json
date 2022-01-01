@@ -30,7 +30,7 @@
     },
     {
       "package": {
-        "id": "test",
+        "id": "test-non-silent",
         "display": "Test(Non-Silent)"
       },
       "config_url": "https://raw.githubusercontent.com/gajop/test-repo/master/dist_cfg/config.json",
@@ -84,6 +84,5 @@
         "engine": "104.0.1-1553-gd3c0012 maintenance"
       }
     }
-    
   ]
 }
